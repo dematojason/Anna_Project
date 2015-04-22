@@ -1,0 +1,60 @@
+#flightCount 8
+#newFlight
+MCO , MIA , 800 , 930
+30
+#newFlight
+ATL , MIA , 1000 , 1245
+120
+#newFlight
+MIA , LAX , 1430 , 1615
+150
+#newFlight
+BTR , ATL , 730 , 930
+20
+#newFlight
+ATL , GNV , 1030 , 1145
+20
+#newFlight
+ATL , JFK , 1230 , 1545
+120
+#newFlight
+LAX , MIA , 530 , 930
+135
+#newFlight
+MIA , ATL , 930 , 1200
+125
+#passCount 5
+#newPass
+Joshua , Horton
+0
+2
+BTR , ATL , 730 , 930
+ATL , GNV , 1030 , 1145
+0
+#newPass
+Adam , Smith
+0
+0
+0
+#newPass
+Barack , Obama
+0
+3
+LAX , MIA , 530 , 930
+MIA , ATL , 930 , 1200
+ATL , JFK , 1230 , 1545
+0
+#newPass
+Tom , Petty
+1
+Your flight from LAX to MIA is running late.
+1
+LAX , MIA , 530 , 930
+0
+#newPass
+Steven , Spielberg
+0
+2
+MCO , MIA , 800 , 930
+MIA , LAX , 1430 , 1615
+0
